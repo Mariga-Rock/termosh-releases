@@ -21,7 +21,7 @@ SQLCipher.
 
 ## Установка
 
-1. Открой [последний релиз](https://github.com/Mariga-Rock/termosh/releases).
+1. Открой [последний релиз](https://github.com/Mariga-Rock/termosh-releases/releases).
 2. Скачай `app-release.apk` на телефон.
 3. Android скажет «Установка заблокирована» → **Настройки** → разреши
    установку из этого источника.
@@ -48,7 +48,7 @@ SQLCipher.
 
 ## Обратная связь
 
-- **Баг-репорт:** [открой issue](https://github.com/Mariga-Rock/termosh/issues/new).
+- **Баг-репорт:** [открой issue](https://github.com/Mariga-Rock/termosh-releases/issues/new).
   Опиши шаги воспроизведения, версию Android, модель телефона.
 - **Логи падения:** приложи файл
   `/sdcard/Android/data/app.termosh/files/crash.log` (если есть).
